@@ -2,8 +2,8 @@
 - [Git](#git)
 - [Make & Makefiles](#make)
 - [CMake](#cmake)
-- [Valgrind](tools/README.md)
-- [gdb](tools/README.md)
+- [Valgrind](#valgrind)
+- [gdb](#gdb)
 
 ---
 
