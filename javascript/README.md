@@ -1,0 +1,1 @@
+### Javascript Syntax and Boilerplate (Cheatsheet)
