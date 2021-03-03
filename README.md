@@ -10,8 +10,8 @@ This is a collection of all of **commands/syntax/boilerplate** code of the Progr
 - [MATLAB](matlab/README.md)
 - [Linux Terminal](linux/README.md)
 - [Command Line Tools](tools/README.md):
-    - [Git](tools/README.md)
-    - [Make & Makefiles](tools/README.md)
-    - [CMake](tools/README.md)
-    - [Valgrind](tools/README.md)
-    - [gdb](tools/README.md)
+    - Git
+    - Make & Makefiles
+    - CMake
+    - Valgrind
+    - GDB
