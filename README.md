@@ -3,13 +3,13 @@ This is a collection of all of **commands/syntax/boilerplate** code of the Progr
 
 #### Index:
 
-- [Python](python/README.md)
-- [C++](cpp/README.md)
-- [Javascript](javascript/README.md)
-- [SQL](sql/README.md)
-- [MATLAB](matlab/README.md)
-- [Linux Terminal](linux/README.md)
-- [Command Line Tools](tools/README.md):
+- [Python](python)
+- [C++](cpp)
+- [Javascript](javascript)
+- [SQL](sql)
+- [MATLAB](matlab)
+- [Linux Terminal](linux)
+- [Command Line Tools](tools):
     - Git
     - Make & Makefiles
     - CMake
